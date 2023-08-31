@@ -60,25 +60,26 @@ display: none;
 }
 section{
     padding: 0 10%;
+    margin:10% ;
    
 }
 .projeto-text h1{
    font-size: 60px;
    line-height: 1;
    color: #000000;
-   margin: 0 0 25px;
+  margin-top: 2,5%;
 }
 .projeto-text h2{
-  font-size: 60px;
+  font-size: 30px;
   line-height: 1;
   color: #000000;
-  margin: 0 7 25px;
+  margin-top: 5%;
 }
 .projeto-text p{
     font-size: 15px;
     line-height: 1.9;
     color: #000000;
-    margin-bottom: 40px;
+    margin-top: 5%;
  }
  
 .projeto-img img{
